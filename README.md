@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 *   🌍  I'm based in Saudi Arabia
 *   ✉️  You can contact me at [Raghadsulimanaldakhil@gmail.com](mailto:Raghadsulimanaldakhil@gmail.com)
-*   🧠  I'm learning web development
+*   🧠  I'm learning web development / mobile App development 
 
 ### Skills 
 <p align="left">
